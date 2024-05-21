@@ -1,0 +1,4 @@
+- Form values are store in redux state
+- Derived state - values computed from the existing state values.
+- Form Search functionality
+- highlighting the matching text when entering the value into form.
